@@ -1,0 +1,11 @@
+h1, h2, span, p {
+    font-family: 'Galeway', sans-serif;
+    font-size: 1.5em;
+}
+
+input {
+    width:auto;
+    margin: 2em;
+    border-style: dashed;
+    border-radius: 1.5em;
+}
